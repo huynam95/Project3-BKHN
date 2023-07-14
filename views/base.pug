@@ -1,0 +1,31 @@
+doctype html 
+html   
+    block head   
+        meta(charset='UTF-8')
+        meta(name='viewport' content='width=device-width, initial-scale=1.0')
+        link(rel='stylesheet' href='/css/style.css')
+        link(rel='shortcut icon' type='image/png' href='/img/favicon.png')
+        link(rel='stylesheet' href="https://fonts.googleapis.com/css?family=Lato:300,300i,700")
+        title Natours | #{title}
+
+    body(data-alert=`${alert ? alert: ''}`) 
+        // Header
+        include _header
+        
+
+        // CONTENT
+        block content 
+          h1 placeholder
+
+        
+        // FOOTER
+        include _footer
+
+        //- block map_js
+        //- block login_js
+        
+        script(src='https://unpkg.com/axios@1.1.2/dist/axios.min.js')
+
+        script(src='https://js.stripe.com/v3/')
+        script(src='/js/bundled/index.js')
+        

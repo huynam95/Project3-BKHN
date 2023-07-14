@@ -1,0 +1,5 @@
+{"_id":{"$oid":"64a33b4be3def5fb8bc951c7"},"createdAt":{"$date":"2023-07-03T21:17:41.182Z"},"paid":true,"tour":{"$oid":"5c88fa8cf4afda39709c2974"},"user":{"$oid":"64a140513b4cfef3d90ebf1b"},"price":1497,"__v":0}
+{"_id":{"$oid":"64a349afc8a635097f519845"},"createdAt":{"$date":"2023-07-03T22:16:01.921Z"},"paid":true,"tour":{"$oid":"5c88fa8cf4afda39709c2951"},"user":{"$oid":"5c8a23c82f8fb814b56fa18d"},"price":397,"__v":0}
+{"_id":{"$oid":"64a5eba527d91800334b0a34"},"createdAt":{"$date":"2023-07-05T22:13:00.443Z"},"paid":true,"tour":{"$oid":"5c88fa8cf4afda39709c295d"},"user":{"$oid":"5c8a23c82f8fb814b56fa18d"},"price":1197,"__v":0}
+{"_id":{"$oid":"64a5ee187be31500337a47d0"},"createdAt":{"$date":"2023-07-05T22:24:57.867Z"},"paid":true,"tour":{"$oid":"5c88fa8cf4afda39709c2970"},"user":{"$oid":"5c8a23c82f8fb814b56fa18d"},"price":2997,"__v":0}
+{"_id":{"$oid":"64a5f5be897f3c00335b6dcb"},"createdAt":{"$date":"2023-07-05T22:57:35.587Z"},"paid":true,"tour":{"$oid":"5c88fa8cf4afda39709c2961"},"user":{"$oid":"5c8a23c82f8fb814b56fa18d"},"price":1497,"__v":0}
